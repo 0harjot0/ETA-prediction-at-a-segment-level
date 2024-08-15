@@ -6,3 +6,4 @@ geopandas
 shapely
 geopy
 torch_geometric
+seaborn
