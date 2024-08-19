@@ -7,3 +7,4 @@ shapely
 geopy
 torch_geometric
 seaborn
+xgboost
